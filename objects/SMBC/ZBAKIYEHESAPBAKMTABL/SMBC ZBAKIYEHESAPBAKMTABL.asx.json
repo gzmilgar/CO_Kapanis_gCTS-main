@@ -1,0 +1,75 @@
+[
+ {
+  "table":"SMBC_CONFIG",
+  "data":
+  [
+   {
+    "TECHNICAL_ID":"ZBAKIYEHESAPBAKMTABL",
+    "SERVICE_BINDING":"ZUI_BAKIYEHESAPBAKMTABL_O4",
+    "SERVICE_NAME":"ZUI_BAKIYEHESAPBAKMTABL_O4",
+    "SERVICE_VERSION":1,
+    "ROOT_ENTITY":"BakiyeHesapBakMTAll",
+    "ABAP_LANGUAGE_VERSION":"5",
+    "SKIP_ROOT_ENTITY":"X",
+    "APP_CONFIGURATION":"{\"LIST_REPORT\":{\"INITIAL_LOAD\":\"Enabled\",\"VARIANT_MANAGEMENT\":\"Page\"},\"OBJECT_PAGES\":[{\"ENTITY\":\"BakiyeHesapBakMTAll\",\"SECTIONLAYOUT\":\"Page\",\"VARIANT_MANAGEMENT\":\"Control\"},{\"ENTITY\":\"BakiyeHesapBakMTabl\",\"TYPE\":\"GridTable\",\"CREATION_MODE\":{\"NAME\":\"InlineCreationRows\",\"CREATE_AT_END\":true},\"SELECTION_MODE\":\"Single\",\"ROW_COUNT_MODE\":\"Auto\",\"ROW_COUNT\":5,\"FROZEN_COLUMN_COUNT\":2,\"WIDTH_INCLUDING_COLUMN_HEADER\":true}]}",
+    "CHANGED_AT":"+020241115133903",
+    "CHANGED_BY":"SAP_CUSTOMER",
+    "CREATED_AT":"+020241115132442",
+    "CREATED_BY":"SAP_CUSTOMER",
+    "STATUS":"A",
+    "DATA_STATUS":"0",
+    "BC_GROUP":""
+   }
+  ]
+ },
+ {
+  "table":"SMBC_CONFIG_TEXT",
+  "data":
+  [
+   {
+    "LANGUAGE":"E",
+    "TECHNICAL_ID":"ZBAKIYEHESAPBAKMTABL",
+    "DESCRIPTION":"Maintain Bakiye Hesap Bakım Tablosu",
+    "NAME":"Bakiye Hesap Bakım Tablosu",
+    "STATUS":"A"
+   },
+   {
+    "LANGUAGE":"T",
+    "TECHNICAL_ID":"ZBAKIYEHESAPBAKMTABL",
+    "DESCRIPTION":"Maintain Bakiye Hesap Bakım Tablosu",
+    "NAME":"Bakiye Hesap Bakım Tablosu",
+    "STATUS":""
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"SMBC",
+    "OBJ_NAME":"ZBAKIYEHESAPBAKMTABL",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SAP_CUSTOMER",
+    "SRCDEP":"",
+    "DEVCLASS":"ZCO002_C001",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" L",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2024-11-15",
+    "CHECK_DATE":"2024-11-15",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

@@ -1,0 +1,1 @@
+CLASS zbp_co002_dd_kal_bak_blg_yrt DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zco002_dd_kal_bak_blg_yrt.

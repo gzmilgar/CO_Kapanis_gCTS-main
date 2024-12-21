@@ -1,0 +1,14 @@
+{
+  "name": "berksaldr-co_kapanis_gcts",
+  "version": "1.0.0",
+  "description": "berksaldr-CO_Kapanis_gCTS",
+  "repositoryLayout": {
+    "formatVersion": 5,
+    "format": "json",
+    "objectStorage": "plain",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false"
+  }
+}
